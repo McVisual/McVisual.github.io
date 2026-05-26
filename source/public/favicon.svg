@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="JY favicon">
+  <rect width="64" height="64" rx="8" fill="#f7f3e9"/>
+  <path d="M6 17h52M6 29h52M6 41h52M18 0v64" stroke="#79adc6" stroke-width="1.8" opacity=".45"/>
+  <path d="M19 0v64" stroke="#ee8a73" stroke-width="2" opacity=".55"/>
+  <rect x="13" y="14" width="38" height="36" rx="6" fill="#373636" stroke="#262421" stroke-width="3"/>
+  <path d="M24 23v13c0 5-3 8-8 8m21-21 6 10 6-10m-6 10v11" fill="none" stroke="#fffdfa" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
